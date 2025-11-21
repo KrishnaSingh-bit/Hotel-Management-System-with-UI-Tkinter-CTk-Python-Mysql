@@ -6,9 +6,9 @@ from tkinter import messagebox,PhotoImage
 
 # -------------------- CONFIG --------------------
 DB_CONFIG = {
-    "host": "LocalHost",
+    "host": "localhost",
     "user": "root",       # change if needed
-    "password": "sqlKrishna",       # your MySQL password
+    "password": "password",       # your MySQL password
     "database": "bank_db"
 }
 
